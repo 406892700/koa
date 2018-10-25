@@ -48,12 +48,14 @@
     "vary": "^1.1.2"
   },
   "devDependencies": {
+    "ejs": "^2.6.1",
     "eslint": "^3.17.1",
     "eslint-config-koa": "^2.0.0",
     "eslint-config-standard": "^7.0.1",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^2.1.1",
     "jest": "^20.0.0",
+    "multiparty": "^4.2.1",
     "supertest": "^3.1.0"
   },
   "engines": {
